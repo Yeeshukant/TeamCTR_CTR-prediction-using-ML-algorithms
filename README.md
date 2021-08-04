@@ -17,8 +17,8 @@ Following Python Libraries installed:<br>
 ### Steps for running
 1. Comment out first cell if you are not using kaggle notebooks
 (For running as it is).
-2. If you don't have access to any high memory system either locally or online, you can reduce the number of samples by reducing the "Sample_size".
-3. Replace the path name "../input/avazu-ctr-prediction/train.gz" with the your file path.
+2. If you don't have access to any high memory system either locally or online, you can reduce the number of samples by reducing the `"Sample_size"`.
+3. Replace the path name `"../input/avazu-ctr-prediction/train.gz"` with the your file path.
 4. Rest of the code can be used as it is.
 ### This project was made for IITISoC 2021<br>
 #### **Team Members**
