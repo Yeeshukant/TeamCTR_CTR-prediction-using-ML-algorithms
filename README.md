@@ -24,3 +24,4 @@ Following Python Libraries installed:<br>
 #### **Team Members**
 Nakshatram Shreyas<br>
 Yeeshukant<br>
+Alakh Rathore
