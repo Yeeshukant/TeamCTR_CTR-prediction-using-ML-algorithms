@@ -23,5 +23,4 @@ Following Python Libraries installed:<br>
 ### This project was made for IITISoC 2021<br>
 #### **Team Members**
 Nakshatram Shreyas<br>
-Yeeshukant<br>
-Alakh Rathore
+Yeeshukant
